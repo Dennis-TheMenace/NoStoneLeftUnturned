@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No Stone Left Unturned", "No Stone Left Unturned\No Stone Left Unturned.csproj", "{69671C6B-0F2F-41BA-9675-59291347C849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69671C6B-0F2F-41BA-9675-59291347C849}.Debug|x86.ActiveCfg = Debug|x86
+		{69671C6B-0F2F-41BA-9675-59291347C849}.Debug|x86.Build.0 = Debug|x86
+		{69671C6B-0F2F-41BA-9675-59291347C849}.Release|x86.ActiveCfg = Release|x86
+		{69671C6B-0F2F-41BA-9675-59291347C849}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3855AE0-0B5F-4DDD-A48F-4BA63A441E48}
+	EndGlobalSection
+EndGlobal
